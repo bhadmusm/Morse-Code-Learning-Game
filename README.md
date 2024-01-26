@@ -1,6 +1,6 @@
 # Morse Code Learning Game
 
-This project is designed to help users learn Morse code in a fun and interactive way using ARM assembly and C programming languages. 
+This project is designed to help users learn Morse code in an interactive way using ARM assembly and C programming languages. 
 
 The target platform for this game is the Raspberry Pi Pico board.
 
