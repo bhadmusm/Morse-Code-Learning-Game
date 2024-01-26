@@ -8,3 +8,6 @@ Users will input Morse code equivalents for given characters or words by pressin
 
 The game consists of three levels with increasing difficulty.
 
+### Team members involved: 
+Maryam Bhadmus, Genevieve Akude, Yuxin Wan, Leen Alazhari
+
